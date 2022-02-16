@@ -1,5 +1,8 @@
-# Silk_organoids
+# Silk Organoids
 This repo holds the code for the paper "Silk scaffolding drives self-assembly of functional and mature human brain organoids"
+
+# Data preparation
+Please download the raw data here: https://www.dropbox.com/s/uf7iqsl8iteynle/silk_organoids_raw_data.zip?dl=1
 
 # System requirements
  - The code has been tested on macOS Big Sur 10.16
